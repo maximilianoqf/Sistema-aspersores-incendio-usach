@@ -1,7 +1,8 @@
 # Sistema de dimensionamiento hidráulico contra incendios forestales
 
 Código MATLAB desarrollado como parte de la tesis de Ingeniería Mecánica de
-**Maximiliano Quintanilla** (Universidad de Santiago de Chile). Dimensiona un
+**Maximiliano Quintanilla** y **César Muñoz** (Universidad de Santiago de
+Chile). Dimensiona un
 sistema de aspersión perimetral y de techo para proteger viviendas frente a
 incendios forestales, acoplando un modelo de fuego (Rothermel–Byram) con un
 optimizador hidráulico que itera sobre catálogos reales de aspersores, tuberías
@@ -49,6 +50,6 @@ MIT — ver [LICENSE](LICENSE).
 
 ## Cómo citar
 
-Quintanilla, M. (2026). *Sistema de dimensionamiento hidráulico contra
-incendios forestales para viviendas rurales* [Tesis de pregrado, Universidad
-de Santiago de Chile].
+Quintanilla, M. & Muñoz, C. (2026). *Sistema de dimensionamiento hidráulico
+contra incendios forestales para viviendas rurales* [Tesis de pregrado,
+Universidad de Santiago de Chile].
