@@ -1,0 +1,16 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+slprj/
+octave-workspace
+
+# Salidas generadas por el software
+resultados_viables.xlsx
+cotizacion_optima*.xlsx
+sistema_incendio.inp
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
