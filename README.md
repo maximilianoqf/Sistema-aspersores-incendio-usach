@@ -1,5 +1,8 @@
 # Sistema de dimensionamiento hidráulico contra incendios forestales
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22546295.svg)](https://doi.org/10.5281/zenodo.22546295)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Código MATLAB desarrollado como parte de la tesis de Ingeniería Mecánica de
 **Maximiliano Quintanilla** y **César Muñoz** (Universidad de Santiago de
 Chile). Dimensiona un
@@ -51,5 +54,5 @@ MIT — ver [LICENSE](LICENSE).
 ## Cómo citar
 
 Quintanilla, M. & Muñoz, C. (2026). *Sistema de dimensionamiento hidráulico
-contra incendios forestales para viviendas rurales* [Tesis de pregrado,
-Universidad de Santiago de Chile].
+contra incendios forestales para viviendas rurales* [Software, versión
+v1.0-tesis]. Zenodo. https://doi.org/10.5281/zenodo.22546295
